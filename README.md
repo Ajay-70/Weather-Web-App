@@ -30,4 +30,4 @@ To run the WeatherMaster application locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/WeatherMaster.git
+   git clone https://github.com/Ajay-70/Weather-Web-App.git
